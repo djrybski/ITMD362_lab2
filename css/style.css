@@ -1,0 +1,45 @@
+
+
+
+
+body {
+	background-color: #12a88d;
+}
+ h1  {
+	text-align: center;
+	font-size: 50px; 
+	color: #0e1413; 
+}
+form {
+	margin: 20px auto;
+	width: 320px;
+	color: #0e1413;
+}
+input {
+	padding: 10px;
+	font-size; inherit;
+}
+input[type="name"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid #0e1413;
+}
+input[type="email"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid #0e1413;
+}
+input[type="phone"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid #0e1413;
+}
+input[type="birthday"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid #0e1413;
+}

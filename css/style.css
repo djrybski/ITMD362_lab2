@@ -272,10 +272,9 @@ input[type="name"] {
 	border: 2px solid #0e1413;
 }
 input[type="email"] {
-	display: block;
 	margin-bottom: 25px;
-	width: 100%;
-	border: 2px solid #0e1413;
+	
+	
 }
 input[type="phone"] {
 	display: block;

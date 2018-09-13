@@ -260,31 +260,33 @@ body {
 	text-align: center;
 	font-size: 50px; 
 	color: #0e1413; 
+	
 }
 input {
 	padding: 10px;
 	font-size; inherit;
 }
 input[type="name"] {
-	display: block;
 	margin-bottom: 25px;
-	width: 100%;
-	border: 2px solid #0e1413;
+	margin-right: auto;
+	margin-left: auto;
 }
 input[type="email"] {
 	margin-bottom: 25px;
+	margin-right: auto;
+	margin-left: auto;
 	
 	
 }
 input[type="phone"] {
-	display: block;
-	margin-bottom: 25px;
-	width: 100%;
-	border: 2px solid #0e1413;
+	margin-bottom: 25px
+	margin-right: auto;
+	margin-left: auto;
+	
 }
 input[type="birthday"] {
-	display: block;
 	margin-bottom: 25px;
-	width: 100%;
-	border: 2px solid #0e1413;
+	margin-right: auto;
+	margin-left: auto;
+	
 }
